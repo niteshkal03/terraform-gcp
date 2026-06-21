@@ -1,5 +1,5 @@
 variable "project_id" {
-  default = "project-93292acb-1b2a-49eb-8cd"
+  default = "just-creek-500104-d2"
 }
 
 variable "region" {
