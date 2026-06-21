@@ -1,5 +1,5 @@
 variable "project_id" {
-  default = "project-93292acb-1b2a-49eb-8cd"
+  default = "sixth-window-500104-g6"
 }
 
 variable "region" {
