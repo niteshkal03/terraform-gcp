@@ -1,5 +1,5 @@
 variable "project_id" {
-  default = "project-93292acb-1b2a-49eb-8cd"
+  default = "extreme-citadel-500104-t5"
 }
 
 variable "region" {
